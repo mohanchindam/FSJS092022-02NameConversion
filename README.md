@@ -11,7 +11,7 @@
 ![NameConversion Preview](./nameConversion1.png)
 
 Project is deployed on **Netlify**:
-- You can preview Project here, [**NameConversion**]()
+- You can preview Project here, [**NameConversion**](https://fsjs092022-02nameconversion.netlify.app/)
 
 
 
